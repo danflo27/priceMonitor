@@ -1,0 +1,11 @@
+art (pip install art)
+dotenv (pip install python-dotenv)
+matplotlib (pip install matplotlib)
+pytz (pip install pytz)
+requests (pip install requests)
+web3 (pip install web3)
+# time
+# sys
+# os
+# json
+# datetime
